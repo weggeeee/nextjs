@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This page is owned by nweckar.
+          This page is owned by nweckar ;)
         </p>
 
         <div className={styles.grid}>
